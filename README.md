@@ -1,9 +1,4 @@
 # SimpleCalculator
 A simple c# and .net calculator with basics operations like ( + , - , * , / )
  Hope you like it
-
-
-
-
-###Screenshot
-![hqdefault](https://cloud.githubusercontent.com/assets/24621701/21486981/d7e1da3a-cbbe-11e6-964d-477da5bc26cd.jpg)
+<img width="607" alt="Screenshot 2022-11-18 183327" src="https://user-images.githubusercontent.com/88825560/202754837-914eb876-ae3b-43dc-8197-23e673cb04d6.png">
